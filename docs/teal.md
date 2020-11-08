@@ -1,17 +1,17 @@
 # Teal Organizations
 ------------------------------------------------------------------------------------------------------------------------------
 
-Community Heroes is intended to be a teal organization (at least partially) as defined in Laloux's book "Reinventing organization". Laloux's identify 5 different types of organizations throughout history that are consistent with the evolution of the level of consciousness whose teal is the latest one.
+Tiramsiu is intended to be a teal organization (at least partially) as defined in Laloux's book "Reinventing organization". Laloux's identify 5 different types of organizations throughout history that are consistent with the evolution of the level of consciousness whose teal is the latest one.
 
 What is a teal organisation? The Harvard Business Review describes it as a "new kind of organization designed to enable "whole" individuals (not narrow professional selves) to self-organize and self-manage to achieve an organic organizational purpose (determined not through hierarchical planning but incrementally, responsively, and from the bottom up)".
 
-There are 3 important components of a Teal organization, which are present within Community Heroes and detailed in the next chapters:
+There are 3 important components of a Teal organization, which are present within Tiramsiu and detailed in the next chapters:
 
 -   **Self-management:** we have created or copied specific structures and processes that replace traditional hierarchies to allow people and teams to self-manage basically everything (from budgets to human resources to their own specific projects).
 
--   **Wholeness:** showing up "whole", as you are as a human being, without wearing a mask or costume to fit into norms. Wholeness has always been intrinsic to Community Heroes it is visible with dogs and babies showing up at work and during our retreats; through our need to be close to nature when we are making big decisions; and through our efforts to collaborate radically through openness, heightened self awareness and extreme trust in other people's good intentions.
+-   **Wholeness:** showing up "whole", as you are as a human being, without wearing a mask or costume to fit into norms. Wholeness has always been intrinsic to Tiramsiu it is visible with dogs and babies showing up at work and during our retreats; through our need to be close to nature when we are making big decisions; and through our efforts to collaborate radically through openness, heightened self awareness and extreme trust in other people's good intentions.
 
--   **Listening to evolutionary purpose:** we see Community Heroes as a living organism of its own volition and we strive to listen and support its purpose. We use our facilitation skills to create spaces to tune into what is needed and collective intelligence and creativity to decide how to take Community Heroes to the next level. Lately, we also started integrating some meditation practices inviting the team, for example, to clear their minds in view of serving the team's individual purposes and the organisation's. For those for whom this is too spiritual, they can can just skip it.
+-   **Listening to evolutionary purpose:** we see Tiramsiu as a living organism of its own volition and we strive to listen and support its purpose. We use our facilitation skills to create spaces to tune into what is needed and collective intelligence and creativity to decide how to take Tiramsiu to the next level. Lately, we also started integrating some meditation practices inviting the team, for example, to clear their minds in view of serving the team's individual purposes and the organisation's. For those for whom this is too spiritual, they can can just skip it.
 
 **Additional information:**
 

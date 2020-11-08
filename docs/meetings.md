@@ -1,8 +1,8 @@
-# Community Heroes meetings
+# Tiramsiu meetings
 -------------------------------------------------------------------------------------
 
 Some people love meetings and some hate them... we love meaningful meetings and hate the *could have been an email* ones.
-Community Heroes is still young and we are still figuring our the best organization and the best meeting system but here are the ones that we already defined.
+Tiramsiu is still young and we are still figuring our the best organization and the best meeting system but here are the ones that we already defined.
 
 ## Weekly operational meetings
 ---------------------------------------------------------------------------------------------------------------------------------

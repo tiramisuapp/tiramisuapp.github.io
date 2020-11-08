@@ -1,7 +1,7 @@
 <!-- docs/_sidebar.md -->
 
 * [Introduction](/)
-* [Community Heroes Identity](identity.md)
+* [Tiramisu Identity](identity.md)
 * [Organization](organization.md)
     * [Teal Organization](teal.md)
     * [Self Management](selfmanagement.md)

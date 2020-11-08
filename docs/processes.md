@@ -6,7 +6,7 @@ You will find in the next chapters the key processes that allow us to work effec
 ## Internal communication > absolute transparency
 ------------------------------------------------------------------------------------------------------------------------------
 
-All employees get access to the "Community Heroes shared" drive folder that contains ALL information about Community Heroes, even people's salaries, our finance and performance evaluations. We switched to slack also to provide more transparency than previously existed with emails, since in general anyone can join any slack channel, apart from those made "closed" for a good reason.
+All employees get access to the "Tiramsiu shared" drive folder that contains ALL information about Tiramsiu, even people's salaries, our finance and performance evaluations. We switched to slack also to provide more transparency than previously existed with emails, since in general anyone can join any slack channel, apart from those made "closed" for a good reason.
 
 Why? Laloux explains it superbly (pp110-111):
 
@@ -24,18 +24,18 @@ In Teal organizations, they are no unimportant people. Everybody expects to have
 
 Around two years ago we have moved to Slack in order to improve even further our transparency so that everyone has access to all conversation and information at any given time.
 
-**Limits to this near absolute transparency at Community Heroes:**
+**Limits to this near absolute transparency at Tiramsiu:**
 
 -   **Not all volunteers get access to the entire drive**, only employees and a few volunteers.
 
--   We have a Community Heroes **confidential drive** with employees personal info (it's a legal requirement to keep this confidential) and some other stuff (accounting, salary sheets... Our salaries policy will be transparent though).
+-   We have a Tiramsiu **confidential drive** with employees personal info (it's a legal requirement to keep this confidential) and some other stuff (accounting, salary sheets... Our salaries policy will be transparent though).
 
 -   We will probably have in the future some group of people requiring a degree of confidentiality (Firing, legal decisions...)
 
 ## Decision making > advice process & consent
 ------------------------------------------------------------------------------------------------------------------------------
 
-At Community Heroes we use 2 different decision processes depending on the type of decision:
+At Tiramsiu we use 2 different decision processes depending on the type of decision:
 
 -   **Consen**t based decision making with the entire team **for big decisions.** « Big » decisions include : wellbeing mixes + the high end of strategic decisions (= from annual objectives/intentions to our values and purpose)
 
@@ -53,7 +53,7 @@ Here's how Laloux describes the advice process (pp 100-103):
 
 "**In principle, any person in the organization can make any decision**. But before doing so,that person must seek advice from all affected parties and people with expertise on the matter.The person is under no obligation to integrate every piece of advice; the point is not to achieve a watered down compromise to accommodate everyone's wishes. But advice must be sought and taken into serious consideration. The bigger the decision, the wider the net must be cast(...). Usually, the decision maker is the person who notice the issue or opportunity or the person most affected by it."
 
-At Community Heroes, **the advice process is applied within the scopes of people's roles**. What does that mean? That you can decide how best to enact your roles' purpose and what should be done, taking into account the advice of people who will be affected. It also means that you cannot start projects that answer the purpose of somebody else's role.
+At Tiramsiu, **the advice process is applied within the scopes of people's roles**. What does that mean? That you can decide how best to enact your roles' purpose and what should be done, taking into account the advice of people who will be affected. It also means that you cannot start projects that answer the purpose of somebody else's role.
 
 **The advice process is a key process to making self management function**: it is actually so critical that in some self managing organizations, colleagues know that forgetting to uphold the advice process is one of the few things that can get them fired.
 
@@ -126,7 +126,7 @@ Rest of the details to be completed (we still have no money to spend :( )
 
 Role definition and allocation[](#role-definition-and-allocation)
 
-As explained, at Community Heroes we have roles instead of fixed job descriptions and we use [glassfrog](https://app.glassfrog.com/organizations/23039/orgnav/roles/12945438) instead of a regular organigram and job descriptions.
+As explained, at Tiramsiu we have roles instead of fixed job descriptions and we use [glassfrog](https://app.glassfrog.com/organizations/23039/orgnav/roles/12945438) instead of a regular organigram and job descriptions.
 
 ## Role definition
 ------------------------------------------------------------------------------------------------------------------------------
@@ -137,9 +137,9 @@ How are roles allocated?[](#how-are-roles-allocated)
 
 --------------------------------------------------------
 
-Well, normally when you applied for a position at Community Heroes, the roles you would be responsible for were clearly described and this is how you obtained your first roles.
+Well, normally when you applied for a position at Tiramsiu, the roles you would be responsible for were clearly described and this is how you obtained your first roles.
 
-After, your roles may evolve as new needs arise and roles appear, or if you want to evolve professionnally. The spaces to discuss how you would like to evolve your roles at Community Heroesare the 1:1 or annual evaluation or informally with your team mates, and the place to decide/officialise role reallocations are governance meetings.
+After, your roles may evolve as new needs arise and roles appear, or if you want to evolve professionnally. The spaces to discuss how you would like to evolve your roles at Tiramsiuare the 1:1 or annual evaluation or informally with your team mates, and the place to decide/officialise role reallocations are governance meetings.
 
 In practice, quite a few role allocations and changes happen informally, in discussion with the lead links.
 
@@ -160,7 +160,7 @@ Here we will define processes and framework for non-violent and efficient confli
 ## Potential dismissal process
 ------------------------------------------------------------------------------------------------------------------------------
 
-When hiring someone new to join our team, it's important to be aware that our working culture is not a good match to everyone. Approximately once a year since Community Heroes started having employees, someone has been dismissed. Because of our human centered culture and the fact that the people we work with are not only colllegues but also friends, the longer the person has been part of the team, the more difficult it is to go through a dismissal process (believe it, we know from experience!!).
+When hiring someone new to join our team, it's important to be aware that our working culture is not a good match to everyone. Approximately once a year since Tiramsiu started having employees, someone has been dismissed. Because of our human centered culture and the fact that the people we work with are not only colllegues but also friends, the longer the person has been part of the team, the more difficult it is to go through a dismissal process (believe it, we know from experience!!).
 
 From this experience comes the first and most important principle: ***"hire fast, fire fast!".*** The objective is to NEVER AGAIN have to fire someone that has been in the team beyond their trial period.
 
@@ -172,7 +172,7 @@ Key principles for *hire fast fire fast* to function well[](#key-principles-for-
 
 -   Each circle takes the lead on deciding who to hire and integrate, using the advice process.
 
--   The newbie has an integration coach to support his/her integration. Whoever is an integration coach should have been at Community Heroes for 6-12 months.
+-   The newbie has an integration coach to support his/her integration. Whoever is an integration coach should have been at Tiramsiu for 6-12 months.
 
 -   An integration team is formed with the 3 people who will work most with the newbie. The integration team should ideally be present for entire integration period (at least! or even 6-12 months longer).
 
@@ -184,7 +184,7 @@ Key principles for *hire fast fire fast* to function well[](#key-principles-for-
 
 -   All evaluations in trial period and any other important communication/meeting is done in written form.
 
--   Past experience has shown us that is the person is underperforming in the following areas in the first 1-3 months, then the person will not do well at Community Heroes in the long term: leadership, goal oriented working attitude and (to a certain extent) following internal Community Heroes rules. **Take these indicators seriously!!!**
+-   Past experience has shown us that is the person is underperforming in the following areas in the first 1-3 months, then the person will not do well at Tiramsiu in the long term: leadership, goal oriented working attitude and (to a certain extent) following internal Tiramsiu rules. **Take these indicators seriously!!!**
 
 Process during trial period[](#process-during-trial-period)
 

@@ -1,7 +1,7 @@
 # Collaboration tools
 --------------------------------------------------------------------------------------------------
 
-This chapter explains the different collaboration tools the Community Heroes team works with:
+This chapter explains the different collaboration tools the Tiramsiu team works with:
 - What each tool is for
 - Tutorials /Information on how to use them
 - How to get access
