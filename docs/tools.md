@@ -11,7 +11,7 @@ Yes we know that too many tools can be confusing and we would like to find the *
 And for an international team (even a small one), it's important to have the right tools to collaborate, share documents, discuss, schedule... 
 
 ## Slack
-All the internal discussions happen there
+///All the internal discussions happen there
 
 ## Trello
 Management of tasks and discussions directly related to these tasks. Each circle has its own trello board.
